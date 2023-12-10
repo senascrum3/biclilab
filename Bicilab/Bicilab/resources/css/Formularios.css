@@ -1,0 +1,60 @@
+h2 {
+    margin-bottom: 0 auto;
+    position: relative;
+    display: block;
+    font-size: 5vmax;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px; /* Set distance from header */
+  }
+  
+  .nuevo{
+    width: 10%;
+    border: 1px solid #000; /* Define border style */
+    padding: 10px;
+    color: white;
+    margin: 0 auto; /* Center horizontally */
+    font-size: 14px;
+    background-color: #737373;
+  }
+  
+  .nuevo:hover {
+    background-color: #ffde59;
+  }
+  
+  .botons {
+    width: 40%;
+    border: 2px solid #000; /* Define border style */
+    padding: 20px;
+    color: white;
+    margin: 0 auto; /* Center horizontally */
+    font-size: 20px;
+    background-color: #737373;
+  }
+  
+  .botons:hover {
+    background-color: #ffde59;
+  }
+  
+ 
+  table {
+    position: relative;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    margin-top: 20px; /* Position below h2 */
+  }
+  .modo {
+    width: 10%;
+    border: 1px solid #000; /* Define border style */
+    padding: 10px;
+    color: white;
+    margin: 0 auto; /* Center horizontally */
+    font-size: 14px;
+    background-color: #737373;
+  }
+  
+  .modo :hover {
+    background-color: #ffde59;
+  }

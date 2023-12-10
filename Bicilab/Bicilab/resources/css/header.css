@@ -1,0 +1,49 @@
+body{
+    margin: 0 auto;
+ }
+
+header{
+    background-color: #737373;
+    width: 100%;
+    margin: 0 auto;
+    position: relative ;
+}
+ul
+{
+    display: flex;
+    justify-content: center;
+}
+nav ul
+{
+    list-style: none;
+    overflow: hidden;
+}
+nav ul li
+{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+nav ul li a
+{
+    display: block;
+    padding: 38px;
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li:hover
+{
+    background-color: #ffde59;
+}
+
+.imagen1{
+    width: 150px;
+    float: left;
+    height: 90px;
+  }
+  .imagen2{
+    width: 150px;
+    float: right;
+    height: 90px;
+  }
